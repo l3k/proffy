@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="Proffy" src=".github/desing.png" width="100%">
+  <img alt="Proffy" src=".github/design.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
